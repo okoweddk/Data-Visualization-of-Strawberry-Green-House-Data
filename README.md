@@ -1,0 +1,1 @@
+This repository focuses on the analysis and visualization of greenhouse data related to strawberry cultivation. It aims to provide insights into various environmental factors, such as temperature, humidity, soil moisture, and light intensity, that influence strawberry growth and yield.
